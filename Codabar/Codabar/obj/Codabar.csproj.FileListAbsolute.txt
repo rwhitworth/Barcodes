@@ -1,0 +1,10 @@
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\bin\Debug\Codabar.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\bin\Debug\Codabar.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\obj\Debug\Codabar.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\obj\Debug\Codabar.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\bin\Release\Codabar.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\bin\Release\Codabar.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\obj\Release\Codabar.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar\obj\Release\Codabar.pdb

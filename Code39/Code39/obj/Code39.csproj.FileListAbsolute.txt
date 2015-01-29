@@ -1,0 +1,10 @@
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\bin\Debug\Code39.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\bin\Debug\Code39.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\obj\Debug\Code39.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\obj\Debug\Code39.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\bin\Release\Code39.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\bin\Release\Code39.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\obj\Release\Code39.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code39\Code39\obj\Release\Code39.pdb

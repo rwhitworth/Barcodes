@@ -1,0 +1,14 @@
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Debug\Code128-A TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Debug\Code128-A TestApp.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Debug\Code128-A.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Debug\Code128-A.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\obj\Debug\Code128-A TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\obj\Debug\Code128-A TestApp.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Release\Code128-A TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Release\Code128-A TestApp.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Release\Code128-A.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\bin\Release\Code128-A.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\obj\Release\Code128-A TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A TestApp\obj\Release\Code128-A TestApp.pdb

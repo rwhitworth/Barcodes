@@ -1,0 +1,5 @@
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128\Code128\bin\Release\Code128.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128\Code128\bin\Release\Code128.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128\Code128\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128\Code128\obj\Release\Code128.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128\Code128\obj\Release\Code128.pdb

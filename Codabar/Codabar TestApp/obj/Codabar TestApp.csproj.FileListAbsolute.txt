@@ -1,0 +1,14 @@
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Debug\Codabar TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Debug\Codabar TestApp.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Debug\Codabar.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Debug\Codabar.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\obj\Debug\Codabar TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\obj\Debug\Codabar TestApp.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Release\Codabar TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Release\Codabar TestApp.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Release\Codabar.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\bin\Release\Codabar.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\obj\Release\Codabar TestApp.exe
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Codabar\Codabar TestApp\obj\Release\Codabar TestApp.pdb

@@ -1,0 +1,10 @@
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\bin\Debug\Code128-A.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\bin\Debug\Code128-A.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\obj\Debug\Code128-A.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\obj\Debug\Code128-A.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\bin\Release\Code128-A.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\bin\Release\Code128-A.pdb
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\obj\Release\Code128-A.dll
+E:\Documents and Settings\test\My Documents\Visual Studio 2005\Projects\Code128-A\Code128-A\obj\Release\Code128-A.pdb
