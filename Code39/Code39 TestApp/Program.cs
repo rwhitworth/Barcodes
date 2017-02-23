@@ -12,10 +12,9 @@ namespace Code39_TestApp
             Code39.Code39 c39 = new Code39.Code39();
             c39.CHECKSUM = false;
             Bitmap b = c39.GetBarcodeBitmap("123");
-            b.Save(@"e:\code39.bmp");
-            b.Save(@"e:\code39.tif", System.Drawing.Imaging.ImageFormat.Tiff);
-            // b.Save(@"e:\code39.jpg", System.Drawing.Imaging.ImageFormat.Jpeg);
-
+            b.Save("code39.bmp");
+            //b.Save("code39.tif", System.Drawing.Imaging.ImageFormat.Tiff);
+            //b.Save("code39.jpg", System.Drawing.Imaging.ImageFormat.Jpeg);
         }
     }
 }
