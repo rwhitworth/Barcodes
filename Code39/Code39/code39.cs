@@ -11,8 +11,8 @@ namespace Code39
         private const string GAP = "0";
         public bool CHECKSUM = false;
 
-        #region encoded_bytes array
-        private string[] encoded_bytes =
+        #region checksum_bytes array
+        private string[] checksum_bytes =
         {
             "101001101101", // 0
             "110100101011",
@@ -61,10 +61,11 @@ namespace Code39
         };
         #endregion
 
-        private String partial(string c)
+        private string partial(char c)
         {
             System.Collections.Hashtable h = new System.Collections.Hashtable();
             // TODO: fix this abuse of Hashtable
+
             h.Add("0", "101001101101");
             h.Add("1", "110100101011");
             h.Add("2", "101100101011");
@@ -113,10 +114,10 @@ namespace Code39
             {
                 return h[c].ToString();
             }
-            return null;
+            throw new Exception(String.Format("partial: input item {0} not in hashtable", c));
         }
 
-        public byte checksum(string c)
+        private byte checksum(string c)
         {
             String allchars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
             allchars += "-. $/+%*";
@@ -142,11 +143,11 @@ namespace Code39
         {
             if (str.Length > 30)
             {
-                throw new ArgumentException("GetBitmap: str length too long");
+                throw new ArgumentException("GetBarcodeBitmap: str length too long");
             }
             if (str.Length < 1)
             {
-                throw new ArgumentException("GetBitmap: str length too short");
+                throw new ArgumentException("GetBarcodeBitmap: str length too short");
             }
             
             int height = 40;
@@ -154,12 +155,12 @@ namespace Code39
 
             for (int qq = 0; qq < str.Length; qq++)
             {
-                bits += partial(str[qq].ToString()) + GAP;
+                bits += partial(str[qq]) + GAP;
             }
 
             if (CHECKSUM)
             {
-                bits += encoded_bytes[checksum(str)] + STOP + QUIET_ZONE;
+                bits += checksum_bytes[checksum(str)] + STOP + QUIET_ZONE;
             }
             else
             {
